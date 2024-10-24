@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project: Analogic OTA
+project:
   title:        "anOTA"      # Project title
   author:       "UABC"      # Your name
   discord:      "UABC"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
